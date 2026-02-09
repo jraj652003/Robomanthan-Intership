@@ -14,3 +14,5 @@
 - [Day 12](Day12) - [ 30/01/2026 ] - Projects built using Arduino Uno
 - [Day 13](Day13) - [ 02/02/2026 ] - Line follower robot
 - [Day 14](Day14) - [ 03/02/2026 ] - Arduino Radar - (Arduino UNO, Ultrasonic Sensor, and Servo Motor)
+- [Day 15](Day15) - [ 05/02/2026 ] - Smart Ultrasonic Object Locking System - (Arduino UNO, Ultrasonic Sensor, and Servo Motor)
+- [Day 16](Day16) - [ 06/02/2026 ] - Ultrasonic Distance Measurement System - (Arduino UNO, Ultrasonic Sensor, and LCD Display)
