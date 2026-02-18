@@ -16,3 +16,7 @@
 - [Day 14](Day14) - [ 03/02/2026 ] - Arduino Radar - (Arduino UNO, Ultrasonic Sensor, and Servo Motor)
 - [Day 15](Day15) - [ 05/02/2026 ] - Smart Ultrasonic Object Locking System - (Arduino UNO, Ultrasonic Sensor, and Servo Motor)
 - [Day 16](Day16) - [ 06/02/2026 ] - Ultrasonic Distance Measurement System - (Arduino UNO, Ultrasonic Sensor, and LCD Display)
+- [Day 17](Day17) - [ 09/02/2026 ] - Intro to Mecanum Wheel
+- [Day 18](Day18) - [ 11/02/2026 ] - Mecanum wheel car that moves forward and backward
+- [Day 19](Day19) - [ 13/02/2026 ] -  Mecanum wheel car that moves 10 directions
+- [Day 20](Day20) - [ 16/02/2026 ] - Intro to Computer Vision
